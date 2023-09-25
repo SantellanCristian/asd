@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1rem;
+
+}
+
+header{
+    width: 100vw;
+    height: 20vh;
+    background-color: bisque;
+}
+
+header h1{
+    padding: 10px 0px;
+    color: brown;
+}
