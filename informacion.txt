@@ -1,1 +1,5 @@
-ejemplo2
+
+creo un conflicto y lo soluciono con un git pull origin main(para actualizar nuestra rama local)
+git add .(para subir los cambios)
+git commit -m "resolver conflicto"
+git push origin main (para subir los cambios al repo remoto)
